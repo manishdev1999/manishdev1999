@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishdev1999
+- 👋 Hi, I’m @manishdev
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Angular
 - 📫 Reach me @ https://in.linkedin.com/in/manishdevbabu
